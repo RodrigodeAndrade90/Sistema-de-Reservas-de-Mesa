@@ -13,3 +13,11 @@ npm install
 ```
 npm start
 ```
+
+#### Acesse a aplicação no navegador:
+```
+http://localhost:3000
+```
+
+
+
