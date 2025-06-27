@@ -4,7 +4,12 @@ Este sistema irá permitir o gerenciamento de reservas de mesas de um restaurant
 
 ### Colocações no terminal
 
-#### Entrada:
+#### Instale as dependências:
 ```
 npm install
+```
+
+#### Inicie o servidor
+```
+npm start
 ```
